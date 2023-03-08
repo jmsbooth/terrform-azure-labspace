@@ -1,0 +1,5 @@
+/certs/*
+/.ssh/*
+/.terraform/*
+
+.terraform.lock.hcl
